@@ -1,1 +1,19 @@
-
+<html>
+  <head>Homework Week 3</head>
+  <br>
+    <h2>Homework 3: Depth of Field</h2>
+    <br>
+    <a href="Reflection3.html">Reflection 3</a> <br>
+    <br>
+    <a href="imageshallow.html">Shallow depth of field photo</a> <br>
+    <br>
+    <a href="imagedeep.html">Deep depth of field photo</a> <br>
+    <br>
+        <a href="imageblur.html">imageblur.html</a> <br>
+    <br>
+    <a href="crfberforeafter.html">Camera Raw Filter Before/After</a>
+    <br>
+    <br>
+    <a href="homework.html">Back to homework</a> <br>
+    <a href="index.html">Back to Home</a> <br>
+</html>
